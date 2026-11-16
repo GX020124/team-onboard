@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Onboard"
+  short_description: "Learn and apply team conventions with evidence"
+  default_prompt: "Use $team-onboard to understand this project, learn its conventions from authorized sources, and apply them to the current task."

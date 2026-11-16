@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Private project knowledge
+.team-context/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Scratch files and generated outputs
+/work/
+/outputs/
+/.playwright-mcp/
